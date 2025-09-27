@@ -1,0 +1,19 @@
+body {
+    text-align: center; 
+    font-family: Arial, sans-serif;
+}
+
+table {
+    margin: auto; 
+    border-collapse: collapse;
+}
+
+td {
+    padding: 8px;
+    border: 1px solid black;
+}
+
+img {
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
